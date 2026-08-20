@@ -1,0 +1,7 @@
+## Day 1 Concepts:
+- Lakehouse and problems it solves
+- Unit Catalog and it's hierarchy
+- Table Info with DESCRIBE EXTENDED; 
+  - Location: the folder in cloud object storage
+  - Type = Managed
+  - Provider = Delta
